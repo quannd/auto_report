@@ -1,0 +1,4 @@
+2017-05-14 15:32:34	 : ERROR : 	E_WARNING : 	D:\WWW\bao_cao\dbconnect.php on line 47 : 	mysqli_real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+2017-05-14 15:51:28	 : ERROR : 	E_WARNING : 	D:\WWW\bao_cao\dbconnect.php on line 48 : 	mysqli_real_connect(): (HY000/1045): Access denied for user 'mmd'@'localhost' (using password: YES)
+2017-05-14 15:52:08	 : ERROR : 	E_WARNING : 	D:\WWW\bao_cao\dbconnect.php on line 48 : 	mysqli_real_connect(): (HY000/1044): Access denied for user 'mmd'@'%' to database 'statistics'

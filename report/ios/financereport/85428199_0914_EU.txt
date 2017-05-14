@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/31/2014	09/27/2014			070212	1	0.54	0.54	EUR	S	500958359	D Hearts Vietnam	LIGHTS OUT V			1		AT			0.89	EUR
+Total_Rows	1
+Total_Amount	0.54
+Total_Units	1

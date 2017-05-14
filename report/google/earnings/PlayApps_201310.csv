@@ -1,0 +1,199 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+1397951661038416,"Oct 1, 2013",12:47:55 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ST25i,TW,,30286,TWD,30.00,3.325100,JPY,100
+1397951661038416,"Oct 1, 2013",12:47:55 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ST25i,TW,,30286,TWD,-9.00,3.325100,JPY,-30
+1346044376828216,"Oct 1, 2013",6:23:14 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,302,TWD,-9.00,3.313900,JPY,-30
+1346044376828216,"Oct 1, 2013",6:23:14 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,302,TWD,30.00,3.313900,JPY,99
+1326585100101126,"Oct 1, 2013",8:25:23 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ISW11SC,JP,岡山県,7090442,JPY,99,1.000000,JPY,99
+1326585100101126,"Oct 1, 2013",8:25:23 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ISW11SC,JP,岡山県,7090442,JPY,-30,1.000000,JPY,-30
+1309269848053003,"Oct 1, 2013",8:39:01 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,220,TWD,-9.00,3.327000,JPY,-30
+1309269848053003,"Oct 1, 2013",8:39:01 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,220,TWD,30.00,3.327000,JPY,100
+1374522917116699,"Oct 1, 2013",2:10:11 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,235,TWD,30.00,3.317300,JPY,100
+1374522917116699,"Oct 1, 2013",2:10:11 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,235,TWD,-9.00,3.317300,JPY,-30
+1362875899915727,"Oct 1, 2013",2:35:17 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,333,TWD,30.00,3.317300,JPY,100
+1362875899915727,"Oct 1, 2013",2:35:17 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,333,TWD,-9.00,3.317300,JPY,-30
+1310389279898286,"Oct 1, 2013",11:03:15 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,242,TWD,30.00,3.319600,JPY,100
+1310389279898286,"Oct 1, 2013",11:03:15 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,242,TWD,-9.00,3.319600,JPY,-30
+1364091702786033,"Oct 2, 2013",1:48:22 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT18i,TW,,412,TWD,-9.00,3.313400,JPY,-30
+1364091702786033,"Oct 2, 2013",1:48:22 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT18i,TW,,412,TWD,30.00,3.313400,JPY,99
+1389035384681055,"Oct 2, 2013",4:09:52 AM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,GT-I9100T,AU,,3316,AUD,-0.30,90.925000,JPY,-27
+1389035384681055,"Oct 2, 2013",4:09:52 AM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,GT-I9100T,AU,,3316,AUD,0.99,90.925000,JPY,90
+1396918039028473,"Oct 2, 2013",9:15:49 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,235,TWD,-9.00,3.303400,JPY,-30
+1396918039028473,"Oct 2, 2013",9:15:49 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,235,TWD,30.00,3.303400,JPY,99
+1360743170802553,"Oct 3, 2013",6:25:47 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,valentewxc9,TW,,807,TWD,-9.00,3.309800,JPY,-30
+1360743170802553,"Oct 3, 2013",6:25:47 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,valentewxc9,TW,,807,TWD,30.00,3.309800,JPY,99
+1349022419154227,"Oct 3, 2013",11:08:19 PM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,holiday,US,AR,72120,USD,0.99,97.270000,JPY,96
+1349022419154227,"Oct 3, 2013",11:08:19 PM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,holiday,US,AR,72120,USD,-0.30,97.270000,JPY,-29
+1377806811568700,"Oct 4, 2013",4:49:28 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,220,TWD,30.00,3.323800,JPY,100
+1377806811568700,"Oct 4, 2013",4:49:28 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,220,TWD,-9.00,3.323800,JPY,-30
+1350490662369418,"Oct 4, 2013",7:39:07 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT26i,TW,,111,TWD,30.00,3.323800,JPY,100
+1350490662369418,"Oct 4, 2013",7:39:07 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT26i,TW,,111,TWD,-9.00,3.323800,JPY,-30
+1304148552676296,"Oct 5, 2013",12:21:16 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,519-0137,JPY,99,1.000000,JPY,99
+1304148552676296,"Oct 5, 2013",12:21:16 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,519-0137,JPY,-30,1.000000,JPY,-30
+1345473617272682,"Oct 5, 2013",2:33:44 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,238,TWD,30.00,3.323800,JPY,100
+1345473617272682,"Oct 5, 2013",2:33:44 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,238,TWD,-9.00,3.323800,JPY,-30
+1344526653004681,"Oct 6, 2013",12:42:14 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,JP,TOKYO,1920044,JPY,-30,1.000000,JPY,-30
+1344526653004681,"Oct 6, 2013",12:42:14 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,JP,TOKYO,1920044,JPY,99,1.000000,JPY,99
+1363105553346508,"Oct 6, 2013",2:27:24 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,,40741,TWD,-9.00,3.323800,JPY,-30
+1363105553346508,"Oct 6, 2013",2:27:24 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,,40741,TWD,30.00,3.323800,JPY,100
+1321195136562514,"Oct 6, 2013",2:34:40 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT25i,TW,,402,TWD,-9.00,3.323800,JPY,-30
+1321195136562514,"Oct 6, 2013",2:34:40 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT25i,TW,,402,TWD,30.00,3.323800,JPY,100
+1335037450043142,"Oct 6, 2013",2:52:43 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SH01D,JP,埼玉県,3500306,JPY,99,1.000000,JPY,99
+1335037450043142,"Oct 6, 2013",2:52:43 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SH01D,JP,埼玉県,3500306,JPY,-30,1.000000,JPY,-30
+1390306879850021,"Oct 6, 2013",8:23:46 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,台北市,111,TWD,-9.00,3.323800,JPY,-30
+1390306879850021,"Oct 6, 2013",8:23:46 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,台北市,111,TWD,30.00,3.323800,JPY,100
+1345394733710525,"Oct 7, 2013",4:36:27 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS-A86,TW,,333,TWD,-9.00,3.302600,JPY,-30
+1345394733710525,"Oct 7, 2013",4:36:27 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS-A86,TW,,333,TWD,30.00,3.302600,JPY,99
+1318914717014870,"Oct 7, 2013",6:53:06 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,701,TWD,-9.00,3.300900,JPY,-30
+1318914717014870,"Oct 7, 2013",6:53:06 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,701,TWD,30.00,3.300900,JPY,99
+1361890378020566,"Oct 7, 2013",11:14:34 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,905,TWD,-9.00,3.306800,JPY,-30
+1361890378020566,"Oct 7, 2013",11:14:34 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,905,TWD,30.00,3.306800,JPY,99
+1324192807964688,"Oct 7, 2013",1:41:19 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,337,TWD,30.00,3.302300,JPY,99
+1324192807964688,"Oct 7, 2013",1:41:19 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,337,TWD,-9.00,3.302300,JPY,-30
+1341704860185088,"Oct 7, 2013",7:05:02 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,golfu,TW,,517,TWD,-9.00,3.295500,JPY,-30
+1341704860185088,"Oct 7, 2013",7:05:02 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,golfu,TW,,517,TWD,30.00,3.295500,JPY,99
+1397112064045283,"Oct 8, 2013",3:08:45 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,811,TWD,-9.00,3.299400,JPY,-30
+1397112064045283,"Oct 8, 2013",3:08:45 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,811,TWD,30.00,3.299400,JPY,99
+1344810487285130,"Oct 8, 2013",7:53:08 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,US,NY,10001,USD,0.99,97.180000,JPY,96
+1344810487285130,"Oct 8, 2013",7:53:08 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,US,NY,10001,USD,-0.30,97.180000,JPY,-29
+1349345691354829,"Oct 8, 2013",8:17:32 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL21,JP,,1670052,JPY,99,1.000000,JPY,99
+1349345691354829,"Oct 8, 2013",8:17:32 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL21,JP,,1670052,JPY,-30,1.000000,JPY,-30
+1370397103185924,"Oct 8, 2013",8:52:22 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL21,JP,,3890405,JPY,99,1.000000,JPY,99
+1370397103185924,"Oct 8, 2013",8:52:22 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL21,JP,,3890405,JPY,-30,1.000000,JPY,-30
+1318676435443527,"Oct 8, 2013",4:32:24 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,411,TWD,-9.00,3.304300,JPY,-30
+1318676435443527,"Oct 8, 2013",4:32:24 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,411,TWD,30.00,3.304300,JPY,99
+1366744590578965,"Oct 8, 2013",4:48:07 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL22,JP,,5630103,JPY,99,1.000000,JPY,99
+1366744590578965,"Oct 8, 2013",4:48:07 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL22,JP,,5630103,JPY,-30,1.000000,JPY,-30
+1389956969225152,"Oct 8, 2013",10:39:42 PM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,konawifi,US,CO,80123,USD,-0.30,97.170000,JPY,-29
+1389956969225152,"Oct 8, 2013",10:39:42 PM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,konawifi,US,CO,80123,USD,0.99,97.170000,JPY,96
+1349272350217889,"Oct 9, 2013",1:32:28 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,243,TWD,-9.00,3.315400,JPY,-30
+1349272350217889,"Oct 9, 2013",1:32:28 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,243,TWD,30.00,3.315400,JPY,99
+1305382144503013,"Oct 9, 2013",4:42:28 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,251,TWD,30.00,3.310700,JPY,99
+1305382144503013,"Oct 9, 2013",4:42:28 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,251,TWD,-9.00,3.310700,JPY,-30
+1374404126010110,"Oct 9, 2013",9:47:02 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,108,TWD,30.00,3.320600,JPY,100
+1374404126010110,"Oct 9, 2013",9:47:02 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,108,TWD,-9.00,3.320600,JPY,-30
+1363897244576177,"Oct 10, 2013",12:31:30 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-03D,JP,長野県,3850062,JPY,-30,1.000000,JPY,-30
+1363897244576177,"Oct 10, 2013",12:31:30 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-03D,JP,長野県,3850062,JPY,99,1.000000,JPY,99
+1392424884149673,"Oct 10, 2013",1:44:35 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,msm7627a_fw8939,TW,,236,TWD,-9.00,3.338100,JPY,-30
+1392424884149673,"Oct 10, 2013",1:44:35 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,msm7627a_fw8939,TW,,236,TWD,30.00,3.338100,JPY,100
+1358312031951920,"Oct 10, 2013",2:18:09 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM206SH,JP,,039-1161,JPY,-30,1.000000,JPY,-30
+1358312031951920,"Oct 10, 2013",2:18:09 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM206SH,JP,,039-1161,JPY,99,1.000000,JPY,99
+1394981132185968,"Oct 11, 2013",12:24:19 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,500,TWD,-9.00,3.356300,JPY,-30
+1394981132185968,"Oct 11, 2013",12:24:19 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,500,TWD,30.00,3.356300,JPY,101
+1303299671636426,"Oct 11, 2013",2:41:59 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,404,TWD,30.00,3.358000,JPY,101
+1303299671636426,"Oct 11, 2013",2:41:59 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,404,TWD,-9.00,3.358000,JPY,-30
+1301932061337918,"Oct 12, 2013",2:24:10 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,515,TWD,-9.00,3.358000,JPY,-31
+1301932061337918,"Oct 12, 2013",2:24:10 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxub1,TW,,515,TWD,30.00,3.358000,JPY,101
+1338650561075461,"Oct 12, 2013",2:32:23 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT25i,TW,,710,TWD,-9.00,3.358000,JPY,-31
+1338650561075461,"Oct 12, 2013",2:32:23 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT25i,TW,,710,TWD,30.00,3.358000,JPY,101
+1305505934866801,"Oct 12, 2013",8:18:25 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,7690104,JPY,-30,1.000000,JPY,-30
+1305505934866801,"Oct 12, 2013",8:18:25 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,7690104,JPY,99,1.000000,JPY,99
+1376669049767518,"Oct 12, 2013",8:20:55 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,aries,TW,雲林縣,651,TWD,-9.00,3.358000,JPY,-30
+1376669049767518,"Oct 12, 2013",8:20:55 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,aries,TW,雲林縣,651,TWD,30.00,3.358000,JPY,101
+1362560817141638,"Oct 12, 2013",9:33:31 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-I9100,TW,,241,TWD,30.00,3.358000,JPY,101
+1362560817141638,"Oct 12, 2013",9:33:31 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-I9100,TW,,241,TWD,-9.00,3.358000,JPY,-30
+1368705189072865,"Oct 12, 2013",11:18:13 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,300,TWD,30.00,3.358000,JPY,101
+1368705189072865,"Oct 12, 2013",11:18:13 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,300,TWD,-9.00,3.358000,JPY,-30
+1383480486668350,"Oct 12, 2013",7:05:51 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,FR,,60800,EUR,-0.24,133.470000,JPY,-32
+1383480486668350,"Oct 12, 2013",7:05:51 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,FR,,60800,EUR,0.81,133.470000,JPY,108
+1354843162534225,"Oct 13, 2013",8:05:25 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hwu9700L,JP,,5720084,JPY,-30,1.000000,JPY,-30
+1354843162534225,"Oct 13, 2013",8:05:25 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hwu9700L,JP,,5720084,JPY,99,1.000000,JPY,99
+1361718669104251,"Oct 13, 2013",1:04:12 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,grouper,JP,東京都,1940013,JPY,-30,1.000000,JPY,-30
+1361718669104251,"Oct 13, 2013",1:04:12 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,grouper,JP,東京都,1940013,JPY,99,1.000000,JPY,99
+1391298563144630,"Oct 13, 2013",1:58:38 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,231,TWD,-9.00,3.358000,JPY,-30
+1391298563144630,"Oct 13, 2013",1:58:38 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,231,TWD,30.00,3.358000,JPY,101
+1351876800922086,"Oct 13, 2013",2:41:58 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,konawifi,TW,,22065,TWD,-9.00,3.358000,JPY,-30
+1351876800922086,"Oct 13, 2013",2:41:58 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,konawifi,TW,,22065,TWD,30.00,3.358000,JPY,101
+1386346966475583,"Oct 13, 2013",2:55:27 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,flo,JP,,4928171,JPY,99,1.000000,JPY,99
+1386346966475583,"Oct 13, 2013",2:55:27 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,flo,JP,,4928171,JPY,-30,1.000000,JPY,-30
+1352193540551269,"Oct 13, 2013",4:29:08 PM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,grouper,US,MI,49417,USD,-0.30,98.480000,JPY,-30
+1352193540551269,"Oct 13, 2013",4:29:08 PM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,grouper,US,MI,49417,USD,0.99,98.480000,JPY,97
+1366869306118523,"Oct 14, 2013",7:56:39 AM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jfltevzw,US,HI,96860 ,USD,-0.30,98.150000,JPY,-30
+1366869306118523,"Oct 14, 2013",7:56:39 AM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jfltevzw,US,HI,96860 ,USD,0.99,98.150000,JPY,97
+1357657460517087,"Oct 15, 2013",12:16:05 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,420,TWD,-9.00,3.359100,JPY,-31
+1357657460517087,"Oct 15, 2013",12:16:05 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,,420,TWD,30.00,3.359100,JPY,101
+1385964416244187,"Oct 15, 2013",10:44:46 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT22i,TW,,408,TWD,30.00,3.359900,JPY,101
+1385964416244187,"Oct 15, 2013",10:44:46 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT22i,TW,,408,TWD,-9.00,3.359900,JPY,-31
+1330855653337956,"Oct 16, 2013",5:06:01 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT22i,TW,,242,TWD,30.00,3.345700,JPY,100
+1330855653337956,"Oct 16, 2013",5:06:01 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT22i,TW,,242,TWD,-9.00,3.345700,JPY,-30
+1384031194492095,"Oct 16, 2013",8:26:29 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,l1_dcm,JP,,915-0872,JPY,99,1.000000,JPY,99
+1384031194492095,"Oct 16, 2013",8:26:29 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,l1_dcm,JP,,915-0872,JPY,-30,1.000000,JPY,-30
+1380682478610389,"Oct 16, 2013",10:13:21 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,IS12S,JP,,1940823,JPY,-30,1.000000,JPY,-30
+1380682478610389,"Oct 16, 2013",10:13:21 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,IS12S,JP,,1940823,JPY,99,1.000000,JPY,99
+1323577731892873,"Oct 16, 2013",10:22:58 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,710,TWD,30.00,3.364900,JPY,101
+1323577731892873,"Oct 16, 2013",10:22:58 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,710,TWD,-9.00,3.364900,JPY,-30
+1300866992976629,"Oct 16, 2013",12:07:01 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM102SH,JP,宮城県,9861111,JPY,99,1.000000,JPY,99
+1300866992976629,"Oct 16, 2013",12:07:01 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM102SH,JP,宮城県,9861111,JPY,-30,1.000000,JPY,-30
+1383708692954325,"Oct 17, 2013",12:37:18 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,kpt75_ics,TW,,115,TWD,30.00,3.352100,JPY,101
+1383708692954325,"Oct 17, 2013",12:37:18 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,kpt75_ics,TW,,115,TWD,-9.00,3.352100,JPY,-30
+1396148815880654,"Oct 17, 2013",7:54:11 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,231,TWD,30.00,3.328700,JPY,100
+1396148815880654,"Oct 17, 2013",7:54:11 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,231,TWD,-9.00,3.328700,JPY,-30
+1311077876887901,"Oct 17, 2013",8:59:49 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02E,JP,,3860156,JPY,-30,1.000000,JPY,-30
+1311077876887901,"Oct 17, 2013",8:59:49 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02E,JP,,3860156,JPY,99,1.000000,JPY,99
+1381094361351995,"Oct 17, 2013",10:00:43 AM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jgedlte,US,CA,95116,USD,0.99,97.860000,JPY,97
+1381094361351995,"Oct 17, 2013",10:00:43 AM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jgedlte,US,CA,95116,USD,-0.30,97.860000,JPY,-30
+1337549346517417,"Oct 17, 2013",10:37:53 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL22,JP,,2580016,JPY,-30,1.000000,JPY,-30
+1337549346517417,"Oct 17, 2013",10:37:53 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL22,JP,,2580016,JPY,99,1.000000,JPY,99
+1375274571712524,"Oct 17, 2013",9:08:32 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,lt023g,TW,,923,TWD,30.00,3.338700,JPY,100
+1375274571712524,"Oct 17, 2013",9:08:32 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,lt023g,TW,,923,TWD,-9.00,3.338700,JPY,-30
+1327458735835057,"Oct 17, 2013",11:50:11 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,260,TWD,30.00,3.341200,JPY,100
+1327458735835057,"Oct 17, 2013",11:50:11 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,260,TWD,-9.00,3.341200,JPY,-30
+1362298783027387,"Oct 18, 2013",6:54:09 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GPLUS,TW,,247,TWD,-9.00,3.323500,JPY,-30
+1362298783027387,"Oct 18, 2013",6:54:09 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GPLUS,TW,,247,TWD,30.00,3.323500,JPY,100
+1337481378650218,"Oct 18, 2013",7:38:15 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,807,TWD,30.00,3.327700,JPY,100
+1337481378650218,"Oct 18, 2013",7:38:15 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,807,TWD,-9.00,3.327700,JPY,-30
+1361727965232769,"Oct 18, 2013",1:22:05 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,,106,TWD,-9.00,3.334000,JPY,-30
+1361727965232769,"Oct 18, 2013",1:22:05 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,,106,TWD,30.00,3.334000,JPY,100
+1315855988430620,"Oct 19, 2013",5:37:24 AM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jactivelte,AU,,2195,AUD,-0.30,94.621000,JPY,-28
+1315855988430620,"Oct 19, 2013",5:37:24 AM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,jactivelte,AU,,2195,AUD,0.99,94.621000,JPY,94
+1383861936930010,"Oct 19, 2013",5:59:04 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,mango,TW,,244,TWD,30.00,3.334000,JPY,100
+1383861936930010,"Oct 19, 2013",5:59:04 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,mango,TW,,244,TWD,-9.00,3.334000,JPY,-30
+1375397823181018,"Oct 20, 2013",2:26:28 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,324,TWD,30.00,3.334000,JPY,100
+1375397823181018,"Oct 20, 2013",2:26:28 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,324,TWD,-9.00,3.334000,JPY,-30
+1319373571348520,"Oct 20, 2013",10:23:32 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,marvel,TW,新北市,24759,TWD,-9.00,3.334000,JPY,-30
+1319373571348520,"Oct 20, 2013",10:23:32 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,marvel,TW,新北市,24759,TWD,30.00,3.334000,JPY,100
+1341560009710090,"Oct 20, 2013",3:48:30 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-N7000,TW,,411,TWD,30.00,3.334000,JPY,100
+1341560009710090,"Oct 20, 2013",3:48:30 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-N7000,TW,,411,TWD,-9.00,3.334000,JPY,-30
+1390280634948529,"Oct 21, 2013",12:42:38 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,endeavoru,TW,,320,TWD,-9.00,3.332900,JPY,-30
+1390280634948529,"Oct 21, 2013",12:42:38 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,endeavoru,TW,,320,TWD,30.00,3.332900,JPY,100
+1300833469422155,"Oct 21, 2013",9:00:35 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,新北市,220,TWD,-9.00,3.338700,JPY,-30
+1300833469422155,"Oct 21, 2013",9:00:35 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxpul,TW,新北市,220,TWD,30.00,3.338700,JPY,100
+1323443068243957,"Oct 21, 2013",7:30:48 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,231,TWD,30.00,3.333000,JPY,100
+1323443068243957,"Oct 21, 2013",7:30:48 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,231,TWD,-9.00,3.333000,JPY,-30
+1353212772424633,"Oct 22, 2013",8:10:37 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,105,TWD,30.00,3.354400,JPY,101
+1353212772424633,"Oct 22, 2013",8:10:37 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,105,TWD,-9.00,3.354400,JPY,-30
+1342362747437717,"Oct 22, 2013",10:40:46 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,80662,TWD,-9.00,3.319000,JPY,-30
+1342362747437717,"Oct 22, 2013",10:40:46 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6902,TW,,80662,TWD,30.00,3.319000,JPY,100
+1367318725978646,"Oct 23, 2013",12:55:45 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-I9100,TW,,300,TWD,30.00,3.312100,JPY,99
+1367318725978646,"Oct 23, 2013",12:55:45 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,GT-I9100,TW,,300,TWD,-9.00,3.312100,JPY,-30
+1328070074800656,"Oct 23, 2013",5:24:53 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM201F,JP,,9610027,JPY,-30,1.000000,JPY,-30
+1328070074800656,"Oct 23, 2013",5:24:53 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SBM201F,JP,,9610027,JPY,99,1.000000,JPY,99
+1398455710563507,"Oct 23, 2013",6:29:22 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,屏東縣,904,TWD,30.00,3.309900,JPY,99
+1398455710563507,"Oct 23, 2013",6:29:22 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,屏東縣,904,TWD,-9.00,3.309900,JPY,-30
+1302702713349786,"Oct 23, 2013",1:14:15 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,0300113,JPY,-30,1.000000,JPY,-30
+1302702713349786,"Oct 23, 2013",1:14:15 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,0300113,JPY,99,1.000000,JPY,99
+1391648373442040,"Oct 24, 2013",12:05:04 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,890,TWD,-9.00,3.315700,JPY,-30
+1391648373442040,"Oct 24, 2013",12:05:04 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,890,TWD,30.00,3.315700,JPY,99
+1334004789786411,"Oct 25, 2013",12:25:43 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,新竹市,30072,TWD,-9.00,3.317200,JPY,-30
+1334004789786411,"Oct 25, 2013",12:25:43 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6802,TW,新竹市,30072,TWD,30.00,3.317200,JPY,100
+1355603912950775,"Oct 26, 2013",10:01:48 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,endeavoru,TW,,351,TWD,-9.00,3.316900,JPY,-30
+1355603912950775,"Oct 26, 2013",10:01:48 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,endeavoru,TW,,351,TWD,30.00,3.316900,JPY,100
+1371326600891772,"Oct 26, 2013",1:36:49 PM PDT,,Google fee,,KING　ライブ壁紙,com.dhearts.kinglivewallpaper,0,,SBM102SH,JP,,3580003,JPY,-30,1.000000,JPY,-30
+1371326600891772,"Oct 26, 2013",1:36:49 PM PDT,,Charge,,KING　ライブ壁紙,com.dhearts.kinglivewallpaper,0,,SBM102SH,JP,,3580003,JPY,99,1.000000,JPY,99
+1335291462675384,"Oct 27, 2013",2:51:22 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,324,TWD,-9.00,3.316900,JPY,-30
+1335291462675384,"Oct 27, 2013",2:51:22 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT29i,TW,,324,TWD,30.00,3.316900,JPY,100
+1388125705452035,"Oct 28, 2013",11:56:57 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlteskt,KR,경기도,443-711,USD,-0.32,97.710000,JPY,-31
+1388125705452035,"Oct 28, 2013",11:56:57 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlteskt,KR,경기도,443-711,USD,1.08,97.710000,JPY,106
+1362276507397653,"Oct 28, 2013",12:57:44 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SH-06E,JP,,2720134,JPY,-30,1.000000,JPY,-30
+1362276507397653,"Oct 28, 2013",12:57:44 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SH-06E,JP,,2720134,JPY,99,1.000000,JPY,99
+1394734829356779,"Oct 28, 2013",1:09:30 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,台中市,403,TWD,30.00,3.325500,JPY,100
+1394734829356779,"Oct 28, 2013",1:09:30 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,台中市,403,TWD,-9.00,3.325500,JPY,-30
+1320119288314204,"Oct 28, 2013",3:42:47 PM PDT,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,sunfire,US,WI,53910,USD,0.99,97.670000,JPY,97
+1320119288314204,"Oct 28, 2013",3:42:47 PM PDT,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,sunfire,US,WI,53910,USD,-0.30,97.670000,JPY,-29
+1334097524085227,"Oct 28, 2013",9:41:11 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02C,JP,,1920043,JPY,-30,1.000000,JPY,-30
+1334097524085227,"Oct 28, 2013",9:41:11 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02C,JP,,1920043,JPY,99,1.000000,JPY,99
+1313349287892131,"Oct 31, 2013",4:08:47 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL21,JP,,2020022,JPY,-30,1.000000,JPY,-30
+1313349287892131,"Oct 31, 2013",4:08:47 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL21,JP,,2020022,JPY,99,1.000000,JPY,99
+1366817775700674,"Oct 31, 2013",10:05:30 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02E,JP,,2870043,JPY,99,1.000000,JPY,99
+1366817775700674,"Oct 31, 2013",10:05:30 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02E,JP,,2870043,JPY,-30,1.000000,JPY,-30
+1326299065054835,"Oct 31, 2013",2:52:08 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,640,TWD,30.00,3.341900,JPY,100
+1326299065054835,"Oct 31, 2013",2:52:08 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,640,TWD,-9.00,3.341900,JPY,-30

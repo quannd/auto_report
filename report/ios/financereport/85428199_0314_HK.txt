@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+03/02/2014	03/29/2014			com.dhearts.ninjalegend.diamond320	15	33.60	504.00	HKD	S	788393762		Diamond320			IA1		HK			48.00	HKD
+Total_Rows	1
+Total_Amount	504
+Total_Units	15

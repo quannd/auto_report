@@ -1,0 +1,5 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+06/29/2014	08/02/2014			com.dhearts.ninjalegend.diamond100	1	273.00	273.00	TWD	S	788393754		Diamond100			IA1		TW			390.00	TWD
+Total_Rows	1
+Total_Amount	273
+Total_Units	1

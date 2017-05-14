@@ -1,0 +1,177 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+1376082258918181,"Nov 1, 2014",3:35:21 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL24,JP,,7612103,JPY,-30,1.000000,JPY,-30
+1376082258918181,"Nov 1, 2014",3:35:21 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL24,JP,,7612103,JPY,99,1.000000,JPY,99
+1321504787761441,"Nov 1, 2014",12:27:19 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,F01F,JP,福岡県,812-0063,JPY,-30,1.000000,JPY,-30
+1321504787761441,"Nov 1, 2014",12:27:19 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,F01F,JP,福岡県,812-0063,JPY,99,1.000000,JPY,99
+1386774257976987,"Nov 1, 2014",4:09:52 PM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,TW,,241,TWD,-9.00,3.688200,JPY,-33
+1386774257976987,"Nov 1, 2014",4:09:52 PM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,TW,,241,TWD,30.00,3.688200,JPY,111
+1336435119811697,"Nov 2, 2014",1:58:45 AM PDT,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,241,TWD,-9.00,3.688200,JPY,-33
+1336435119811697,"Nov 2, 2014",1:58:45 AM PDT,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ja3g,TW,,241,TWD,30.00,3.688200,JPY,111
+1332706919818563,"Nov 2, 2014",10:32:48 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,923,TWD,-9.00,3.688200,JPY,-33
+1332706919818563,"Nov 2, 2014",10:32:48 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,923,TWD,30.00,3.688200,JPY,111
+1335486977204981,"Nov 3, 2014",11:53:34 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-01G,JP,,3430023,JPY,-30,1.000000,JPY,-30
+1335486977204981,"Nov 3, 2014",11:53:34 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-01G,JP,,3430023,JPY,99,1.000000,JPY,99
+1306510789887290,"Nov 4, 2014",2:19:15 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,340―0156,JPY,-30,1.000000,JPY,-30
+1306510789887290,"Nov 4, 2014",2:19:15 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,340―0156,JPY,99,1.000000,JPY,99
+1312902020838029,"Nov 4, 2014",2:35:28 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,116,TWD,-9.00,3.727300,JPY,-34
+1312902020838029,"Nov 4, 2014",2:35:28 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,116,TWD,30.00,3.727300,JPY,112
+1382707989511011,"Nov 5, 2014",1:54:38 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02F,JP,,3990007,JPY,-30,1.000000,JPY,-30
+1382707989511011,"Nov 5, 2014",1:54:38 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-02F,JP,,3990007,JPY,99,1.000000,JPY,99
+1336059661979523,"Nov 6, 2014",3:09:33 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,861-4212,JPY,-30,1.000000,JPY,-30
+1336059661979523,"Nov 6, 2014",3:09:33 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,861-4212,JPY,99,1.000000,JPY,99
+1322600108874688,"Nov 6, 2014",11:40:55 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,23741,TWD,-9.00,3.760000,JPY,-34
+1322600108874688,"Nov 6, 2014",11:40:55 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m7,TW,,23741,TWD,30.00,3.760000,JPY,113
+1377179487652950,"Nov 6, 2014",4:42:29 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,DE,,65189,EUR,-0.24,142.630000,JPY,-34
+1377179487652950,"Nov 6, 2014",4:42:29 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,DE,,65189,EUR,0.81,142.630000,JPY,116
+1347573679725384,"Nov 6, 2014",9:47:23 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,msm8226,TW,,235,TWD,-9.00,3.767700,JPY,-34
+1347573679725384,"Nov 6, 2014",9:47:23 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,msm8226,TW,,235,TWD,30.00,3.767700,JPY,113
+1336072642938801,"Nov 7, 2014",9:57:52 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,600,TWD,-9.00,3.748900,JPY,-34
+1336072642938801,"Nov 7, 2014",9:57:52 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,m0,TW,,600,TWD,30.00,3.748900,JPY,112
+1313463635846512,"Nov 8, 2014",9:54:21 AM PST,,Google fee,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,-11.01,114.620000,JPY,-1262
+1313463635846512,"Nov 8, 2014",9:54:21 AM PST,,Charge,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,36.69,114.620000,JPY,4205
+1345752592827254,"Nov 8, 2014",11:18:06 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,4180021,JPY,-30,1.000000,JPY,-30
+1345752592827254,"Nov 8, 2014",11:18:06 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,dlxj,JP,,4180021,JPY,99,1.000000,JPY,99
+1320209343458832,"Nov 8, 2014",2:25:28 PM PST,,Google fee,,Crystal 10 units,com.dhearts.monter,1,tier_10,d2vmu,US,MS,39218,USD,-2.36,114.620000,JPY,-271
+1320209343458832,"Nov 8, 2014",2:25:28 PM PST,,Charge,,Crystal 10 units,com.dhearts.monter,1,tier_10,d2vmu,US,MS,39218,USD,7.87,114.620000,JPY,902
+1356387198308192,"Nov 8, 2014",2:25:31 PM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,d2vmu,US,MS,39218,USD,-1.50,114.620000,JPY,-172
+1356387198308192,"Nov 8, 2014",2:25:31 PM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,d2vmu,US,MS,39218,USD,4.99,114.620000,JPY,572
+1311478702744316,"Nov 8, 2014",2:34:38 PM PST,,Google fee,,Crystal 30 units,com.dhearts.monter,1,tier_25,d2vmu,US,MS,39218,USD,-6.56,114.620000,JPY,-752
+1311478702744316,"Nov 8, 2014",2:34:38 PM PST,,Charge,,Crystal 30 units,com.dhearts.monter,1,tier_25,d2vmu,US,MS,39218,USD,21.86,114.620000,JPY,2506
+1348842998997831,"Nov 8, 2014",2:37:47 PM PST,,Google fee,,Crystal 10 units,com.dhearts.monter,1,tier_10,d2vmu,US,MS,39218,USD,-2.36,114.620000,JPY,-271
+1348842998997831,"Nov 8, 2014",2:37:47 PM PST,,Charge,,Crystal 10 units,com.dhearts.monter,1,tier_10,d2vmu,US,MS,39218,USD,7.87,114.620000,JPY,902
+1344767512387914,"Nov 8, 2014",4:20:46 PM PST,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,A0001,US,MI,48309,USD,-0.30,114.620000,JPY,-34
+1344767512387914,"Nov 8, 2014",4:20:46 PM PST,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,A0001,US,MI,48309,USD,0.99,114.620000,JPY,113
+1339556367454862,"Nov 9, 2014",1:54:48 AM PST,,Google fee,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,-11.01,114.620000,JPY,-1262
+1339556367454862,"Nov 9, 2014",1:54:48 AM PST,,Charge,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,36.69,114.620000,JPY,4205
+1338841295170227,"Nov 10, 2014",1:11:48 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6563,TW,,116,TWD,-9.00,3.756200,JPY,-34
+1338841295170227,"Nov 10, 2014",1:11:48 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6563,TW,,116,TWD,30.00,3.756200,JPY,113
+1326208033301533,"Nov 10, 2014",1:49:16 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,407,TWD,-9.00,3.756200,JPY,-34
+1326208033301533,"Nov 10, 2014",1:49:16 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ha3g,TW,,407,TWD,30.00,3.756200,JPY,113
+1392728976449548,"Nov 10, 2014",2:29:52 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS_T00G,TW,,404,TWD,-9.00,3.754200,JPY,-34
+1392728976449548,"Nov 10, 2014",2:29:52 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS_T00G,TW,,404,TWD,30.00,3.754200,JPY,113
+1390600793990628,"Nov 10, 2014",9:39:30 PM PST,,Google fee,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,-11.01,114.990000,JPY,-1266
+1390600793990628,"Nov 10, 2014",9:39:30 PM PST,,Charge,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,36.69,114.990000,JPY,4219
+1308498577184554,"Nov 10, 2014",11:36:16 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL22,JP,,399-0213,JPY,-30,1.000000,JPY,-30
+1308498577184554,"Nov 10, 2014",11:36:16 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL22,JP,,399-0213,JPY,99,1.000000,JPY,99
+1372129947362196,"Nov 11, 2014",8:05:52 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,334,TWD,-9.00,3.784400,JPY,-34
+1372129947362196,"Nov 11, 2014",8:05:52 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,t03g,TW,,334,TWD,30.00,3.784400,JPY,114
+1363338501542142,"Nov 12, 2014",1:59:12 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_a5ul,TW,台南市,708,TWD,-9.00,3.769000,JPY,-34
+1363338501542142,"Nov 12, 2014",1:59:12 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_a5ul,TW,台南市,708,TWD,30.00,3.769000,JPY,113
+1389888732401738,"Nov 12, 2014",5:04:27 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,icx1216,JP,,9610021,JPY,-30,1.000000,JPY,-30
+1389888732401738,"Nov 12, 2014",5:04:27 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,icx1216,JP,,9610021,JPY,99,1.000000,JPY,99
+1366188655960317,"Nov 12, 2014",9:50:56 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6653,TW,,324,TWD,-9.00,3.767600,JPY,-34
+1366188655960317,"Nov 12, 2014",9:50:56 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6653,TW,,324,TWD,30.00,3.767600,JPY,113
+1385672561307516,"Nov 12, 2014",3:42:24 PM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,d2att,US,MS,38843,USD,-1.50,115.600000,JPY,-173
+1385672561307516,"Nov 12, 2014",3:42:24 PM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,d2att,US,MS,38843,USD,4.99,115.600000,JPY,577
+1316693306699996,"Nov 13, 2014",12:24:39 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,b1,KR,인천광역시,405-231,USD,-0.31,115.640000,JPY,-36
+1316693306699996,"Nov 13, 2014",12:24:39 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,b1,KR,인천광역시,405-231,USD,1.05,115.640000,JPY,121
+1380404317475681,"Nov 13, 2014",3:28:03 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6602,TW,,338,TWD,-9.00,3.781100,JPY,-34
+1380404317475681,"Nov 13, 2014",3:28:03 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,C6602,TW,,338,TWD,30.00,3.781100,JPY,113
+1324780774859953,"Nov 14, 2014",4:03:16 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,F01F,JP,,0393153,JPY,-30,1.000000,JPY,-30
+1324780774859953,"Nov 14, 2014",4:03:16 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,F01F,JP,,0393153,JPY,99,1.000000,JPY,99
+1389215053117058,"Nov 14, 2014",10:40:08 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,VNA,TW,,830,TWD,-9.00,3.788100,JPY,-34
+1389215053117058,"Nov 14, 2014",10:40:08 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,VNA,TW,,830,TWD,30.00,3.788100,JPY,114
+1378397777580850,"Nov 14, 2014",10:47:33 AM PST,,Google fee,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,-11.01,116.530000,JPY,-1283
+1378397777580850,"Nov 14, 2014",10:47:33 AM PST,,Charge,,Crystal 50 units,com.dhearts.monter,1,tier_42,d2att,US,MS,38843,USD,36.69,116.530000,JPY,4275
+1383623330129877,"Nov 14, 2014",1:12:58 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,HM2013023,TW,,82648,TWD,-9.00,3.783100,JPY,-34
+1383623330129877,"Nov 14, 2014",1:12:58 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,HM2013023,TW,,82648,TWD,30.00,3.783100,JPY,113
+1371235328025825,"Nov 14, 2014",6:55:22 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-03F,JP,,314-0254,JPY,-30,1.000000,JPY,-30
+1371235328025825,"Nov 14, 2014",6:55:22 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-03F,JP,,314-0254,JPY,99,1.000000,JPY,99
+1312974613390065,"Nov 15, 2014",6:29:04 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6653,TW,,251,TWD,-9.00,3.784400,JPY,-34
+1312974613390065,"Nov 15, 2014",6:29:04 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D6653,TW,,251,TWD,30.00,3.784400,JPY,114
+1372645691264531,"Nov 15, 2014",1:57:57 PM PST,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,trlteatt,US,MO,63028,USD,-0.30,116.280000,JPY,-35
+1372645691264531,"Nov 15, 2014",1:57:57 PM PST,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,trlteatt,US,MO,63028,USD,0.99,116.280000,JPY,115
+1367903973140051,"Nov 15, 2014",11:17:13 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,TW,,709,TWD,-9.00,3.784400,JPY,-34
+1367903973140051,"Nov 15, 2014",11:17:13 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,TW,,709,TWD,30.00,3.784400,JPY,114
+1309120593726187,"Nov 16, 2014",2:49:01 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,d2dcm,JP,東京都,164-0001,JPY,-30,1.000000,JPY,-30
+1309120593726187,"Nov 16, 2014",2:49:01 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,d2dcm,JP,東京都,164-0001,JPY,99,1.000000,JPY,99
+1351072710212410,"Nov 16, 2014",7:44:42 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,9380806,JPY,-30,1.000000,JPY,-30
+1351072710212410,"Nov 16, 2014",7:44:42 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,9380806,JPY,99,1.000000,JPY,99
+1334938201211151,"Nov 16, 2014",10:11:00 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D2533,TW,,30050,TWD,-9.00,3.784400,JPY,-34
+1334938201211151,"Nov 16, 2014",10:11:00 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,D2533,TW,,30050,TWD,30.00,3.784400,JPY,114
+1324937351604100,"Nov 16, 2014",2:16:47 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT28h,TW,,231,TWD,-9.00,3.784400,JPY,-34
+1324937351604100,"Nov 16, 2014",2:16:47 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT28h,TW,,231,TWD,30.00,3.784400,JPY,114
+1376099205275621,"Nov 16, 2014",3:38:41 PM PST,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,d2lterefreshspr,US,NJ,08527,USD,-0.30,116.280000,JPY,-35
+1376099205275621,"Nov 16, 2014",3:38:41 PM PST,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,d2lterefreshspr,US,NJ,08527,USD,0.99,116.280000,JPY,115
+1313050282854436,"Nov 17, 2014",1:41:14 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,blaze,JP,,8113132,JPY,-30,1.000000,JPY,-30
+1313050282854436,"Nov 17, 2014",1:41:14 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,blaze,JP,,8113132,JPY,99,1.000000,JPY,99
+1378904047125208,"Nov 17, 2014",4:07:58 PM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,D5503,GB,,GU8 5SG,GBP,-0.19,182.410000,JPY,-35
+1378904047125208,"Nov 17, 2014",4:07:58 PM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,D5503,GB,,GU8 5SG,GBP,0.62,182.410000,JPY,113
+1318143106847505,"Nov 17, 2014",5:12:39 PM PST,,Google fee,,Crystal 10 units,com.dhearts.monter,1,tier_10,D5503,GB,,GU8 5SG,GBP,-1.48,182.410000,JPY,-270
+1318143106847505,"Nov 17, 2014",5:12:39 PM PST,,Charge,,Crystal 10 units,com.dhearts.monter,1,tier_10,D5503,GB,,GU8 5SG,GBP,4.93,182.410000,JPY,899
+1304113490078390,"Nov 18, 2014",12:23:18 AM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,-1.57,103.540000,JPY,-163
+1304113490078390,"Nov 18, 2014",12:23:18 AM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,5.24,103.540000,JPY,543
+1328590408374232,"Nov 18, 2014",12:25:10 AM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,-1.57,103.540000,JPY,-163
+1328590408374232,"Nov 18, 2014",12:25:10 AM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,5.24,103.540000,JPY,543
+1399005032720964,"Nov 18, 2014",3:31:31 AM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,zeus,CA,ON,L8E 3Y3,CAD,-0.31,103.640000,JPY,-32
+1399005032720964,"Nov 18, 2014",3:31:31 AM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,zeus,CA,ON,L8E 3Y3,CAD,1.04,103.640000,JPY,108
+1309170249228091,"Nov 18, 2014",3:39:50 AM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,zeus,CA,ON,L8E 3Y3,CAD,-0.31,103.640000,JPY,-32
+1309170249228091,"Nov 18, 2014",3:39:50 AM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,zeus,CA,ON,L8E 3Y3,CAD,1.04,103.640000,JPY,108
+1310975269355734,"Nov 18, 2014",9:03:14 PM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,golden,FR,,75110,EUR,-0.22,146.720000,JPY,-32
+1310975269355734,"Nov 18, 2014",9:03:14 PM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,golden,FR,,75110,EUR,0.74,146.720000,JPY,109
+1377241579832484,"Nov 19, 2014",1:02:30 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL24,JP,,6570844,JPY,-30,1.000000,JPY,-30
+1377241579832484,"Nov 19, 2014",1:02:30 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHL24,JP,,6570844,JPY,99,1.000000,JPY,99
+1331989394960928,"Nov 19, 2014",7:32:17 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,P682F06,TW,,116,TWD,-9.00,3.810400,JPY,-34
+1331989394960928,"Nov 19, 2014",7:32:17 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,P682F06,TW,,116,TWD,30.00,3.810400,JPY,114
+1383035619763285,"Nov 20, 2014",1:07:51 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,TW,,134,TWD,-9.00,3.831200,JPY,-34
+1383035619763285,"Nov 20, 2014",1:07:51 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_m8,TW,,134,TWD,30.00,3.831200,JPY,115
+1365253946798271,"Nov 20, 2014",4:29:30 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,KYY24,JP,神奈川県,2521113,JPY,-30,1.000000,JPY,-30
+1365253946798271,"Nov 20, 2014",4:29:30 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,KYY24,JP,神奈川県,2521113,JPY,99,1.000000,JPY,99
+1327708838640928,"Nov 20, 2014",9:21:34 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,TW,,820,TWD,-9.00,3.810800,JPY,-34
+1327708838640928,"Nov 20, 2014",9:21:34 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,hlte,TW,,820,TWD,30.00,3.810800,JPY,114
+1387053478665766,"Nov 21, 2014",1:08:36 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,417-0001,JPY,-30,1.000000,JPY,-30
+1387053478665766,"Nov 21, 2014",1:08:36 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL23,JP,,417-0001,JPY,99,1.000000,JPY,99
+1356218702856038,"Nov 21, 2014",6:10:21 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-01G,JP,,9250036,JPY,-30,1.000000,JPY,-30
+1356218702856038,"Nov 21, 2014",6:10:21 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-01G,JP,,9250036,JPY,99,1.000000,JPY,99
+1306529767111429,"Nov 21, 2014",10:05:59 AM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,Luno,ES,BI,48300,EUR,-0.22,145.920000,JPY,-32
+1306529767111429,"Nov 21, 2014",10:05:59 AM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,Luno,ES,BI,48300,EUR,0.74,145.920000,JPY,108
+1311196210001437,"Nov 21, 2014",10:06:58 AM PST,,Google fee,,Crystal 1 units,com.dhearts.monter,1,tier_1,Luno,ES,BI,48300,EUR,-0.22,145.920000,JPY,-32
+1311196210001437,"Nov 21, 2014",10:06:58 AM PST,,Charge,,Crystal 1 units,com.dhearts.monter,1,tier_1,Luno,ES,BI,48300,EUR,0.74,145.920000,JPY,108
+1357657489253976,"Nov 21, 2014",2:18:10 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL25,JP,,2993237,JPY,-30,1.000000,JPY,-30
+1357657489253976,"Nov 21, 2014",2:18:10 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SOL25,JP,,2993237,JPY,99,1.000000,JPY,99
+1398089593743201,"Nov 22, 2014",2:56:11 AM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,-1.57,104.750000,JPY,-164
+1398089593743201,"Nov 22, 2014",2:56:11 AM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,5.24,104.750000,JPY,549
+1352199324428746,"Nov 23, 2014",6:45:07 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-04F,JP,,9190407,JPY,-30,1.000000,JPY,-30
+1352199324428746,"Nov 23, 2014",6:45:07 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-04F,JP,,9190407,JPY,99,1.000000,JPY,99
+1369289739907417,"Nov 23, 2014",7:49:00 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT26ii,JP,Tokyo,1028584,JPY,-30,1.000000,JPY,-30
+1369289739907417,"Nov 23, 2014",7:49:00 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,LT26ii,JP,Tokyo,1028584,JPY,99,1.000000,JPY,99
+1398210870618023,"Nov 23, 2014",1:49:05 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04F,JP,,7200832,JPY,-30,1.000000,JPY,-30
+1398210870618023,"Nov 23, 2014",1:49:05 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04F,JP,,7200832,JPY,99,1.000000,JPY,99
+1390109496330037,"Nov 24, 2014",5:03:38 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,251,TWD,-9.00,3.818500,JPY,-34
+1390109496330037,"Nov 24, 2014",5:03:38 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,251,TWD,30.00,3.818500,JPY,115
+1344146741178577,"Nov 24, 2014",6:34:40 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,24152,TWD,-9.00,3.818500,JPY,-34
+1344146741178577,"Nov 24, 2014",6:34:40 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,24152,TWD,30.00,3.818500,JPY,115
+1306877393964676,"Nov 24, 2014",7:16:00 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02E,JP,福島県,9691402,JPY,-30,1.000000,JPY,-30
+1306877393964676,"Nov 24, 2014",7:16:00 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02E,JP,福島県,9691402,JPY,99,1.000000,JPY,99
+1339737193051968,"Nov 24, 2014",11:37:27 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,l_dcm,JP,,277-0008,JPY,-30,1.000000,JPY,-30
+1339737193051968,"Nov 24, 2014",11:37:27 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,l_dcm,JP,,277-0008,JPY,99,1.000000,JPY,99
+1326805551101571,"Nov 24, 2014",5:49:12 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,811,TWD,-9.00,3.824100,JPY,-34
+1326805551101571,"Nov 24, 2014",5:49:12 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,811,TWD,30.00,3.824100,JPY,115
+1358928826840921,"Nov 25, 2014",2:10:35 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_b2wlj,JP,,2300001,JPY,-30,1.000000,JPY,-30
+1358928826840921,"Nov 25, 2014",2:10:35 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_b2wlj,JP,,2300001,JPY,99,1.000000,JPY,99
+1355881752238784,"Nov 25, 2014",2:19:10 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS_T00P,TW,,812,TWD,-9.00,3.817500,JPY,-34
+1355881752238784,"Nov 25, 2014",2:19:10 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,ASUS_T00P,TW,,812,TWD,30.00,3.817500,JPY,115
+1340770153042272,"Nov 26, 2014",3:03:13 AM PST,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,d2att,US,FL,32615-6155,USD,-0.30,117.810000,JPY,-35
+1340770153042272,"Nov 26, 2014",3:03:13 AM PST,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,d2att,US,FL,32615-6155,USD,0.99,117.810000,JPY,117
+1362638142928220,"Nov 26, 2014",8:59:15 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SCL24,JP,福井県,9130004,JPY,-30,1.000000,JPY,-30
+1362638142928220,"Nov 26, 2014",8:59:15 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SCL24,JP,福井県,9130004,JPY,99,1.000000,JPY,99
+1334537296882761,"Nov 26, 2014",10:05:05 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_a3qhdul,TW,,404,TWD,-9.00,3.808000,JPY,-34
+1334537296882761,"Nov 26, 2014",10:05:05 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,htc_a3qhdul,TW,,404,TWD,30.00,3.808000,JPY,114
+1384190412903519,"Nov 26, 2014",12:11:37 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,414,TWD,-9.00,3.808000,JPY,-34
+1384190412903519,"Nov 26, 2014",12:11:37 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,trhplte,TW,,414,TWD,30.00,3.808000,JPY,114
+1325838213289193,"Nov 27, 2014",7:24:00 AM PST,,Google fee,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,m0,NZ,,3720,NZD,-0.38,92.700000,JPY,-35
+1325838213289193,"Nov 27, 2014",7:24:00 AM PST,,Charge,,Cherry blossom LiveWallpaper,com.quan.lwp.fallingleaveslwp,0,,m0,NZ,,3720,NZD,1.28,92.700000,JPY,119
+1329530642111534,"Nov 27, 2014",10:33:42 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHI05,JP,青森県,0392667,JPY,-30,1.000000,JPY,-30
+1329530642111534,"Nov 27, 2014",10:33:42 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SHI05,JP,青森県,0392667,JPY,99,1.000000,JPY,99
+1395323452944835,"Nov 27, 2014",11:58:14 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02F,JP,,2720024,JPY,-30,1.000000,JPY,-30
+1395323452944835,"Nov 27, 2014",11:58:14 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SC-02F,JP,,2720024,JPY,99,1.000000,JPY,99
+1314942701742532,"Nov 28, 2014",11:45:44 AM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,2300031,JPY,-30,1.000000,JPY,-30
+1314942701742532,"Nov 28, 2014",11:45:44 AM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,SO-04E,JP,,2300031,JPY,99,1.000000,JPY,99
+1369618895176985,"Nov 28, 2014",8:42:00 PM PST,,Google fee,,Crystal 10 units,com.dhearts.monter,1,tier_10,zeus,CA,ON,L8E 3Y3,CAD,-2.60,103.740000,JPY,-270
+1369618895176985,"Nov 28, 2014",8:42:00 PM PST,,Charge,,Crystal 10 units,com.dhearts.monter,1,tier_10,zeus,CA,ON,L8E 3Y3,CAD,8.66,103.740000,JPY,898
+1347473180970956,"Nov 28, 2014",9:00:33 PM PST,,Google fee,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,-1.57,103.740000,JPY,-163
+1347473180970956,"Nov 28, 2014",9:00:33 PM PST,,Charge,,Crystal 5 units,com.dhearts.monter,1,tier_5,zeus,CA,ON,L8E 3Y3,CAD,5.24,103.740000,JPY,544
+1311537225285835,"Nov 29, 2014",11:09:52 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,b1w,US,NY,10014,USD,-0.30,118.660000,JPY,-36
+1311537225285835,"Nov 29, 2014",11:09:52 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,b1w,US,NY,10014,USD,0.99,118.660000,JPY,117
+1399085530858856,"Nov 30, 2014",8:27:33 PM PST,,Google fee,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,p2,TW,,923,TWD,-9.00,3.836700,JPY,-35
+1399085530858856,"Nov 30, 2014",8:27:33 PM PST,,Charge,,夜桜　ライブ壁紙,com.quan.lwp.fallingleaveslwp,0,,p2,TW,,923,TWD,30.00,3.836700,JPY,115
