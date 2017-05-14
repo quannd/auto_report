@@ -30,7 +30,7 @@ function connect_db() {
         // $database_db = "monster_test";
         $database_db = "statistics";
         $username_db = "mmd";
-        $password_db = "mmd";
+        $password_db = "Mmdd`1!@";
 
         global $connect;
         $connect = mysqli_init();
