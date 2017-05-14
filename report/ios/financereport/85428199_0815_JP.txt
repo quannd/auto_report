@@ -1,5 +1,0 @@
-Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
-08/02/2015	08/29/2015			Coin50	1	672.00	672.00	JPY	S	960135185		50000 coins			IA1		JP			960.00	JPY
-Total_Rows	1
-Total_Amount	672
-Total_Units	1

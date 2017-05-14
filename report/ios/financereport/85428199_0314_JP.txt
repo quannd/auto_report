@@ -1,8 +1,0 @@
-Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
-03/02/2014	03/29/2014			com.dhearts.ninjalegend.diamond7	1	70.00	70.00	JPY	S	788393732		Diamond7			IA1		JP			100.00	JPY
-03/02/2014	03/29/2014			com.dhearts.ninjalegend.diamond217	1	350.00	350.00	JPY	S	788393760		Diamond217			IA1		JP			500.00	JPY
-03/02/2014	03/29/2014			com.dhearts.ninjalegend.diamond40	3	210.00	630.00	JPY	S	788393748		Diamond40			IA1		JP			300.00	JPY
-03/02/2014	03/29/2014			com.dhearts.ninjalegend.diamond15	2	140.00	280.00	JPY	S	788393746		Diamond15			IA1		JP			200.00	JPY
-Total_Rows	4
-Total_Amount	1330
-Total_Units	7

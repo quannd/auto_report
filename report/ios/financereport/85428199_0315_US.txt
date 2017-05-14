@@ -1,5 +1,0 @@
-Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
-03/01/2015	03/28/2015			com.dhearts.ninjalegend.diamond15	2	1.40	2.80	USD	S	788393746		Diamond15			IA1		US			1.99	USD
-Total_Rows	1
-Total_Amount	2.8
-Total_Units	2

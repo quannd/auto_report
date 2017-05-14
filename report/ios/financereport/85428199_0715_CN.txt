@@ -1,5 +1,0 @@
-Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
-06/28/2015	08/01/2015			Coin10	1	8.40	8.40	CNY	S	960134475		10000 coins			IA1		CN			12.00	CNY
-Total_Rows	1
-Total_Amount	8.4
-Total_Units	1

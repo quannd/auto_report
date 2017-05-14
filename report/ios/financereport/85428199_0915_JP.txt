@@ -1,5 +1,0 @@
-Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
-08/30/2015	09/26/2015			com.dhearts.ninjalegend.diamond7	1	84.00	84.00	JPY	S	788393732		Diamond7			IA1		JP			120.00	JPY
-Total_Rows	1
-Total_Amount	84
-Total_Units	1
